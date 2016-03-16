@@ -1,0 +1,70 @@
+Contact: admin@yxygames.com
+
+Website: http://yxygames.com
+
+In this document, "Developer" refers to Yu Xuan Yi, creator and copyright owner of the "Gemstoned" app.
+
+LIMITED WARRANTY AND LICENSE AGREEMENT
+
+
+THE SOFTWARE IS LICENSED, NOT SOLD. YOUR USE OF THE SOFTWARE (AS SPECIFIED BELOW) IS SUBJECT TO THIS LIMITED WARRANTY AND LICENSE AGREEMENT FOR END USERS AND THE TERMS AND CONDITIONS SET FORTH BELOW ("AGREEMENT").
+
+For purposes of this Agreement "Software" means all software programs and services made available by Developer, but not limited to mobile games, downloadable/installable games for personal computer, and games and services accessed by means of a browser or other online communication method. Software also includes updates and upgrades as well as accompanying manual(s), packaging and other written, files, electronic or on-line materials or documentation, and any and all copies of such software and its materials.
+
+BY INSTALLING, USING OR ACCESSING THE SOFTWARE OR ANY MATERIALS INCLUDED WITH THE SOFTWARE, YOU HEREBY ACCEPT THE TERMS OF THIS AGREEMENT. If you do not agree to the terms of this Agreement, do not install, use or access the Software.
+
+1 LICENSE
+
+LICENSE. Subject to this Agreement and its terms and conditions, Developer hereby grants you a non-exclusive, non-transferable, non-sublicensable, limited right and license to use one copy of the Software for your personal non-commercial use, unless otherwise specified in the Software documentation. Your acquired rights are subject to your compliance with this Agreement. The term of your license under this Agreement shall commence on the date that you install or otherwise use the Software and ends on the earlier date of either your disposal of the Software or Developer's termination of this Agreement. Your license terminates immediately if you attempt to circumvent any technical protection measures used in connection with the Software. The Software is being licensed to you and you hereby acknowledge that no title or ownership in the Software is being transferred or assigned and this Agreement should not be construed as a sale of any rights in the Software. All rights not specifically granted under this Agreement are reserved by Developer.
+
+OWNERSHIP. Developer retains all right, title and interest to the Software, including, but not limited to, all copyrights, trademarks, trade secrets, trade names, proprietary rights, patents, titles, computer codes, audiovisual effects, themes, characters, character names, stories, dialog, settings, artwork, sound effects, musical works, and moral rights whether registered or not and all applications thereof. The Software is protected by applicable laws and treaties throughout the world. Unless expressly authorized by mandatory legislation, the Software may not be copied, reproduced or distributed in any manner or medium, in whole or in part, without prior written consent from Developer. All rights not expressly granted to you herein are reserved by Developer.
+
+2 LICENSE CONDITIONS
+
+You agree not to: (i) commercially exploit the Software; (ii) distribute, lease, license, sell, rent, lend, convey or otherwise transfer or assign the Software, any passwords or usernames or any copies of the Software, without the express prior written consent of Developer or as set forth in this Agreement; (iii) make a copy of the Software or any part thereof (other than as set forth herein); (iv) make a copy of the Software publicly available or available on a network for use or download by multiple users; (v) except as otherwise specifically provided by the Software or this Agreement, use or install the Software (or permit others to do same) on a network, for on-line use; (vi) use or copy the Software at a computer gaming center or any other location-based site; (vii) reverse engineer, decompile, disassemble, translate, prepare derivative works based on or otherwise modify the Software, in whole or in part; (viii) remove, obscure or modify any copyright, trademark or other proprietary rights notices, marks or labels contained on or within the Software, falsify or delete any author attributions, legal notices or other labels of the origin or source of the material; (ix) misrepresent the source of ownership of the Software; (x) transport, export or re-export (directly or indirectly) into any country forbidden to receive such Software by any EU, U.S. or other export laws or accompanying regulations or otherwise violate such laws or regulations, that may be amended from time to time; or (xi) scrape, build databases or otherwise create permanent copies of content returned from the Software. The Software is intended for private use only.
+
+The Software may include measures to control access to the Software, prevent unauthorized copies, or otherwise attempt to prevent anyone from exceeding the limited rights and licenses granted under this Agreement. Only Software subject to a valid license can be used to access online services, and download updates and patches. You may not interfere with such access control measures or attempt to disable or circumvent such security features. If you disable or otherwise tamper with the technical protection measures, the Software will not function properly.
+
+The Software may require an internet connection to access the Software or its internet-based features, authenticate the Software, or perform other functions. In order for certain features of the Software to operate properly, you may be required to have and maintain (a) an adequate internet connection and/or (b) a valid and active account with an online service as set forth in the Software documentation. If you do not maintain such accounts, then the Software or certain features of the Software may not operate or may cease to function properly, either in whole or in part.
+
+3 INFORMATION COLLECTION AND USE; PRIVACY POLICY
+
+Developer is not collecting any data of the users of the Software, with the exception to the registration information on the developer's website. The registration information is not used for any commercial purpose.
+
+By installing, accessing or using the Software, you consent to these information collection and usage terms, including (where applicable) the transfer of data into a country outside of the European Union and/or the European Economic Area or the United States of America.
+
+PRIVACY POLICY. Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+
+* Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+* We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+* We will only retain personal information as long as necessary for the fulfillment of those purposes.
+* We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+* Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+* We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+* We will make readily available to customers information about our policies and practices relating to the management of personal information.
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+4 WARRANTY
+
+TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, THE SOFTWARE IS PROVIDED TO YOU "AS IS," WITH ALL FAULTS, WITHOUT WARRANTY OF ANY KIND, WITHOUT PERFORMANCE ASSURANCES OR GUARANTEES OF ANY KIND, AND YOUR USE IS AT YOUR SOLE RISK. THE ENTIRE RISK OF SATISFACTORY QUALITY AND PERFORMANCE RESIDES WITH YOU. Developer DOES NOT MAKE, AND HEREBY DISCLAIM, ANY AND ALL EXPRESS, IMPLIED OR STATUTORY WARRANTIES, INCLUDING IMPLIED WARRANTIES OF CONDITION, UNINTERRUPTED USE, MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT OF THIRD PARTY RIGHTS, AND WARRANTIES (IF ANY) ARISING FROM A COURSE OF DEALING, USAGE, OR TRADE PRACTICE. Developer DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE SOFTWARE; THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS; THAT OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT THE SOFTWARE WILL INTEROPERATE OR BE COMPATIBLE WITH ANY OTHER SOFTWARE OR THAT ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED. NO ORAL OR WRITTEN ADVICE PROVIDED BY Developer SHALL CREATE A WARRANTY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF OR LIMITATIONS ON IMPLIED WARRANTIES OR THE LIMITATIONS ON THE APPLICABLE STATUTORY RIGHTS OF A CONSUMER, SO SOME OR ALL OF THE ABOVE EXCLUSIONS AND LIMITATIONS APPLY ONLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION.
+
+5 LIMITATION OF LIABILITY
+
+IN NO EVENT WILL Developer BE LIABLE FOR SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES RESULTING FROM POSSESSION, ACCESS, USE OR MALFUNCTION OF THE SOFTWARE, INCLUDING BUT NOT LIMITED TO, DAMAGES TO PROPERTY, LOSS OF GOODWILL, COMPUTER FAILURE OR MALFUNCTION AND, TO THE EXTENT PERMITTED BY LAW, DAMAGES FOR PERSONAL INJURIES, PROPERTY DAMAGE, LOST PROFITS OR PUNITIVE DAMAGES FROM ANY CAUSES OF ACTION ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE SOFTWARE, WHETHER ARISING IN TORT (INCLUDING NEGLIGENCE), CONTRACT, STRICT LIABILITY OR OTHERWISE AND WHETHER OR NOT Developer HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. FOR PURPOSES OF THIS SECTION 5, Developer'S LICENSORS AND CHANNEL PARTNERS ARE THIRD PARTY BENEFICIARIES TO THE LIMITATIONS OF LIABILITY SPECIFIED HEREIN AND THEY MAY ENFORCE THIS AGREEMENT AGAINST YOU.
+
+BECAUSE SOME STATES/COUNTRIES DO NOT ALLOW CERTAIN LIMITATIONS OF LIABILITY, THIS LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION. THIS LIMITATION OF LIABILITY SHALL NOT BE APPLICABLE SOLELY TO THE EXTENT THAT ANY SPECIFIC PROVISION OF THIS LIMITATION OF LIABILITY IS PROHIBITED BY ANY FEDERAL, STATE, OR MUNICIPAL LAW, WHICH CANNOT BE PRE-EMPTED. THIS AGREEMENT GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY HAVE OTHER RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION.
+
+IN NO EVENT SHALL Developer'S LIABILITY FOR ALL DAMAGES (EXCEPT AS REQUIRED BY APPLICABLE LAW) EXCEED THE ACTUAL PRICE PAID BY YOU FOR USE OF THE SOFTWARE.
+
+6 OTHER TERMS AND CONDITIONS
+
+TERMINATION: This Agreement will terminate automatically if you fail to comply with its terms and conditions. In such event, you must destroy all copies of the Software and all of its component parts and cease and desist from accessing any service components of the Software.
+
+EQUITABLE REMEDIES: You hereby agree that if the terms of this Agreement are not specifically enforced, Developer will be irreparably damaged, and therefore you agree that Developer shall be entitled, without bond, other security or proof of damages, to appropriate equitable remedies with respect to your breach of any of the terms of this Agreement, in addition to any other available remedies.
+
+INDEMNITY: You agree to indemnify, defend and hold Developer, its partners, affiliates, contractors, officers, directors, employees and agents harmless from and against any and all damages, losses and expenses arising directly or indirectly from: (i) your acts and omissions to act in using the Software pursuant to the terms of the Agreement; or (ii) your breach of this Agreement.
+
+MISCELLANEOUS: This Agreement represents the complete agreement concerning this license between the parties and supersedes all prior agreements and representations between them. It may be amended only by a written document executed by both parties. If any provision of this Agreement is held to be unenforceable for any reason, such provision shall be reformed only to the extent necessary to make it enforceable and the remaining provisions of this Agreement shall not be affected.
+
+GOVERNING LAW AND DISPUTE RESOLUTION. This Agreement will be governed by the laws of United States of America, California without reference to its choice of law rules. The United Nations Convention for the International Sale of Goods shall not apply. Any dispute, controversy or claim arising out of or relating to this Agreement or the breach, termination or validity thereof shall be finally settled at Developer's discretion (i) at your domicile's competent courts; or (ii) by arbitration in accordance with the Arbitration Rules of International Chamber of Commerce. The arbitration shall be conducted in San Francisco, California, United States of America, in the English language. The award shall be final and binding on the parties. BY ENTERING INTO THIS AGREEMENT, YOU EXPRESSLY WAIVE THE RIGHT TO PARTICIPATE IN A CLASS ACTION AGAINST Developer AND Developer's PARTNERS.
